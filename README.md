@@ -55,7 +55,7 @@ This project provides an interactive **Streamlit-based portal** where users can 
 
 <!-- Embed the system architecture diagram -->
 
-<img width="934" height="552" alt="image" src="https://github.com/user-attachments/assets/e0d2168b-4511-49c7-99df-b1ec027c41ff" />
+<img width="1078" height="669" alt="image" src="https://github.com/user-attachments/assets/b4f75202-101d-4737-919d-b95f82e12abd" />
 
 ---
 
